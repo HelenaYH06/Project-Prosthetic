@@ -53,7 +53,7 @@ This repository contains **ONLY the logic infrastructure (Code)**.
 ## 🛠 Tech Stack
 
 * **LLM Orchestration**: LangChain / LlamaIndex
-* **Models**: Google Vertex AI (Gemini 1.5 Pro), Gemma 2
+* **Models**: Google Vertex AI (Gemini 2.5 Pro), Gemma 2
 * **Vector Database**: Pinecone (Serverless) / Supabase
 * **Backend**: FastAPI (Python)
 * **Frontend**: Next.js / Streamlit
